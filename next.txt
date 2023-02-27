@@ -1,0 +1,2 @@
+next step:
+storage.py --> connection to mysql database
